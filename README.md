@@ -1,4 +1,4 @@
-# Data-Professional-Survey-Breakdown
+# Data Professional Survey Breakdown
 
 Diving deep into the world of data-related jobs through a comprehensive survey.
 In this project, I analyzed key aspects of careers in data science, data analysis, data engineering, and more. Here are some of the insights I uncovered:
